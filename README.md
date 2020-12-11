@@ -1,2 +1,2 @@
 # python-server
-Python Web Server
+Just a very simple basic Python Web Server to get started. 
